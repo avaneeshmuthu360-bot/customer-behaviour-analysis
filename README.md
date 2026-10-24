@@ -144,5 +144,6 @@ customer-behaviour-analysis/
 
 ## Author
 
-**Your Name**
-Data Analyst | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+**Muthu Avaneesh**
+Data Analysis Learner | [LinkedIn](www.linkedin.com/in/muthu-avaneesh-3b6284322) | [Email](avaneeshmuthu360@gmail.com
+)
