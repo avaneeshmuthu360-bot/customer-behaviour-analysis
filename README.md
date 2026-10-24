@@ -145,5 +145,4 @@ customer-behaviour-analysis/
 ## Author
 
 **Muthu Avaneesh**
-Data Analysis Learner | [LinkedIn](www.linkedin.com/in/muthu-avaneesh-3b6284322) | [Email](avaneeshmuthu360@gmail.com
-)
+Aspiring Data Analyst | [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/muthu-avaneesh-3b6284322) | [Email](mailto:avaneeshmuthu360@gmail.com)
