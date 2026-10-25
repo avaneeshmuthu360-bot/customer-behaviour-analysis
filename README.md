@@ -2,7 +2,8 @@
 
 An end-to-end data analytics project that turns 3,900 customer purchase records into business insights using **Python, SQL and Power BI**.
 
-![Customer Behaviour Dashboard](dashboard/dashboard.png)
+![Customer Behaviour Dashboard](<img width="1523" height="845" alt="dashboard" src="https://github.com/user-attachments/assets/42df1076-b10c-439e-b794-ccb6572afd90" />
+)
 
 ---
 
